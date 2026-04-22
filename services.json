@@ -1,0 +1,92 @@
+{
+  "ecosystem": [
+	{
+      "id": "account",
+      "name": "Openwave Account",
+      "tech": "Authentik",
+      "description": "SSO e Identidade Única.",
+      "link": "https://account.openwave.net.br",
+      "icon": "fa-shield-halved",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+    	 {
+      "id": "calendar",
+      "name": "OpenDAV",
+      "tech": "Baikal",
+      "description": "Calendario e Contatos via DAV",
+      "link": "https://cal.openwave.net.br",
+      "icon": "fa-calendar",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+    {
+      "id": "images",
+      "name": "OpenImages",
+      "tech": "Picsur",
+      "description": "Hospedagem de Imagens.",
+      "link": "https://image.openwave.net.br",
+      "icon": "fa-images",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+    {
+      "id": "pki",
+      "name": "Linkwave CA",
+      "tech": "OpenSSL",
+      "description": "Certificados Digitais.",
+      "link": "https://ca.openwave.net.br",
+      "icon": "fa-certificate",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+ {
+      "id": "photos",
+      "name": "OpenPhotos",
+      "tech": "Immich",
+      "description": "Alternativa open-source ao Google Photos",
+      "link": "https://fotos.openwave.net.br",
+      "icon": "fa-photo-film",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+    {
+      "id": "pdftools",
+      "name": "OpenPDF",
+      "tech": "BentoPDF",
+      "description": "Edite e altere PDF's com facilidade e totalmente privado",
+      "link": "https://pdf.openwave.net.br",
+      "icon": "fa-file-pdf",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+    {
+      "id": "matrixchat",
+      "name": "Matrix Server",
+      "tech": "Matrix",
+      "description": "Chat descentralizado e privado, onde o único que possui seus dados é você mesmo. Use nosso servidor com qualquer cliente matrix, utilizando a URL",
+      "link": "https://matrix.openwave.net.br",
+      "icon": "fa-comment",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    },
+    {
+      "id": "elementchat",
+      "name": "OpenChat / Element",
+      "tech": "Element",
+      "description": "Chat descentralizado e privado, onde o único que possui seus dados é você mesmo. Use nosso cliente com qualquer servidor matrix.",
+      "link": "https://chat.openwave.net.br",
+      "icon": "fa-comments",
+      "color": "text-brand-blue",
+      "bg": "bg-blue-500/10",
+      "borderHover": "hover:border-blue-500/50"
+    }
+  ]
+}
